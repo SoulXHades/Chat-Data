@@ -831,7 +831,7 @@ def mainFork(namePos, datePos, dateType, yearLen, chatPos, dataList, matchingLis
 #introduction
 print("Welcome to dataScript.")
 print("Please follow the instructions below to generate the desire results.")
-print("For any enquiry, please email to haojie_34@hotmail.com\n")
+print("For any enquiry, please email to hadessoulx@gmail.com\n")
 
 
 #main program
