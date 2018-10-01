@@ -428,7 +428,7 @@ def outputResults(database, totalSum, matchingList, fileLoc):
 		print(resultList[i], end="")
 
 
-	save = input("Do you need to store the results a text file? (y/n)\n").lower() 
+	save = input("Do you need to store the results a text/excel file? (y/n)\n").lower() 
 
 	#clear screen (cross platform)
 	os.system('cls' if os.name == 'nt' else 'clear')
